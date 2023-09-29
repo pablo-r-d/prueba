@@ -1,2 +1,0 @@
-popopo
-print ("hola mundo");
